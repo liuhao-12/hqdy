@@ -44,6 +44,10 @@ cd hqdy
    ```
    https://你的项目名称.xxxxx.workers.dev
    ```
+6.建议绑定自己的域名：
+   Cloudflare提供的免费域名存在大陆无法访问的情况
+   没有域名，可到https://dash.domain.digitalplat.org/申请一个免费的域名
+   托管或解析到Cloudflare
 
 ## 功能说明
 
